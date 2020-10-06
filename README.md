@@ -1,5 +1,5 @@
 # flower_detector
 
-# Flutter with Deep Learning
+## Flutter with Deep Learning
 
 ![](demo/demo.gif)
